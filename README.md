@@ -1,2 +1,2 @@
-# 3D-Controal-Test-Game
+# 3D-Control-Test-Game
 A test for changing scenes in unity
